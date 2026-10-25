@@ -1,0 +1,14 @@
+# fechou sem abrir
+)
+)(
+
+# sobrou abertura
+(
+(()
+
+# fechou a mais
+())
+
+# simbolo fora do alfabeto
+(a)
+()1
