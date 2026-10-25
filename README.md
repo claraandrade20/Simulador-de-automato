@@ -6,12 +6,13 @@ O simulador reconhece parênteses balanceados. O analisador léxico separa `(` e
 ## Como executar
 
 ```bat
-build.bat
+.\build.bat
 ```
 
 Para um arquivo só:
 
 ```bat
-build.bat tests\validas.txt
+.\build.bat tests\validas.txt
 ```
 
+[Simulador de autômato com pilha e análise léxica — parênteses balanceados.pdf](https://github.com/user-attachments/files/33929191/Simulador.de.automato.com.pilha.e.analise.lexica.parenteses.balanceados.pdf)
