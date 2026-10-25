@@ -15,4 +15,3 @@ Para um arquivo só:
 build.bat tests\validas.txt
 ```
 
-O relatório está em `RELATORIO.md`.
